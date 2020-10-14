@@ -1,2 +1,2 @@
 # AlbaTM
-MI blog de moda
+MI blog de moda en HTML
